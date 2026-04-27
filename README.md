@@ -5,7 +5,6 @@
 - 🌱 Deep diving into **Jetpack Compose, Clean Architecture & Hilt**.
 - 💼 Actively looking for my first **Junior Android Developer** role.
 - 📫 How to reach me: **roma.pomaua@gmail.com** or Telegram **@romarior226**.
-
 - <h3 align="left">🛠 Tools & Technologies:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
