@@ -14,5 +14,3 @@
   <img src="https://img.shields.io/badge/Retrofit-FF6F00?style=for-the-badge&logo=square&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romarior226&show_icons=true&theme=radium&hide_border=true" />
-</p>
